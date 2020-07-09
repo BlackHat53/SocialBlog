@@ -1,0 +1,18 @@
+*DISCLAIMER*
+The project was developed in an IDE called atom. Since sharing the software tool with the mail is not possible because of the size of it.
+
+STEPS TO USE-
+1)LAUNCH ATOM.
+2)RUN THE APP.PY CODE.
+3)REGISTER TO CREATE AN ACCOUNT IN AnyBlog.
+4)SIGN IN TO THE ACCOUNT USING CREDENTIAL.
+5)READ BLOGS POSTED BY EVERYONE ON AnyBlog.
+6)BLOG post anything from your account.
+7)UPDATE OR DELETE THE POST FROM YOUR ACCOUNT.
+8)LOGOUT OF THE WEB-APP.
+
+
+THANK YOU FOR USING OUR APP.
+
+DEVELOPERS-NITHIN REDDY S(160118737103)
+           KOUSHIK REDDY G(160118737101)
